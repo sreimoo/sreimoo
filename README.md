@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sreimoo (Sanee Salim)
 - 👀 I’m interested in Data Science, Data Engineering, Data Analysis, Cloud Computing, DevOps
-- 🌱 I’m currently learning Docker,PowerBI, Google Analytics, Azure, Snowflake
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me: sani.reimoo@gmail.com is my email
+- 🌱 I’m currently really interested in Open Table Formats, Snowflake & Medallion Architecture
+- 📫 How to reach me: sanireimoo@gmail.com is my email
 
 <!---
 sreimoo/sreimoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
